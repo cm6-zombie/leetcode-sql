@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/cm6-zombie/leetcode-sql/tree/master/0197-rising-temperature) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/cm6-zombie/leetcode-sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
