@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/cm6-zombie/leetcode-sql/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/cm6-zombie/leetcode-sql/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/cm6-zombie/leetcode-sql/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/cm6-zombie/leetcode-sql/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cm6-zombie/leetcode-sql/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/cm6-zombie/leetcode-sql/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/cm6-zombie/leetcode-sql/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
