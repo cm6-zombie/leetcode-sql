@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/cm6-zombie/leetcode-sql/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/cm6-zombie/leetcode-sql/tree/master/0066-plus-one) |
+| [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -110,4 +111,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cm6-zombie/leetcode-sql/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
