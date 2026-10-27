@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/cm6-zombie/leetcode-sql/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/cm6-zombie/leetcode-sql/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/cm6-zombie/leetcode-sql/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/cm6-zombie/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
 | [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/cm6-zombie/leetcode-sql/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/cm6-zombie/leetcode-sql/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cm6-zombie/leetcode-sql/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/cm6-zombie/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/cm6-zombie/leetcode-sql/tree/master/0704-binary-search) |
 ## Newton's Method
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cm6-zombie/leetcode-sql/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/cm6-zombie/leetcode-sql/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
