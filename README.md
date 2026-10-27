@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/cm6-zombie/leetcode-sql/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/cm6-zombie/leetcode-sql/tree/master/0066-plus-one) |
 | [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/cm6-zombie/leetcode-sql/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
