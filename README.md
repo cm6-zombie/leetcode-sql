@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/cm6-zombie/leetcode-sql/tree/master/0066-plus-one) |
 | [0239-sliding-window-maximum](https://github.com/cm6-zombie/leetcode-sql/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/cm6-zombie/leetcode-sql/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/cm6-zombie/leetcode-sql/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/cm6-zombie/leetcode-sql/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/cm6-zombie/leetcode-sql/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
